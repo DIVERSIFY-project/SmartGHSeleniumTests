@@ -2,6 +2,7 @@ package org.diversify.sgh.test;
 
 import static org.junit.Assert.fail;
 
+import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.PrintWriter;
 
@@ -11,7 +12,9 @@ import org.junit.runner.RunWith;
 import org.junit.runners.Suite;
 import org.junit.runners.Suite.SuiteClasses;
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.firefox.FirefoxBinary;
 import org.openqa.selenium.firefox.FirefoxDriver;
+import org.openqa.selenium.firefox.FirefoxProfile;
 
 @RunWith(Suite.class)
 @SuiteClasses({TestDataSetGenerator.class})
@@ -34,7 +37,10 @@ public class DataSetGeneration {
 	@BeforeClass
 	public static void setUp() {
 		System.out.println("setup");
-		driver = new FirefoxDriver();
+		File pathToBinary = new File("C:\\Program Files (x86)\\Mozilla Firefox\\Firefox.exe");
+		FirefoxBinary ffBinary = new FirefoxBinary(pathToBinary);
+		FirefoxProfile firefoxProfile = new FirefoxProfile();
+		driver = new FirefoxDriver(ffBinary,firefoxProfile);
 	}
 
 	@AfterClass
