@@ -1,0 +1,12 @@
+Henrietta street; Synge street; 3.0; Tournez légèrement à gauche sur Ship Street Great; foot; Least Noisy
+Henrietta street; Synge street; 2.36; Continuez sur Grattan Bridge; foot; Fastest
+Henrietta street; Synge street; 2.36; Tournez légèrement à gauche sur New Bride Street; foot; Shortest
+Henrietta street; Synge street; 3.0; Tournez fort à gauche sur King's Inn's Street; foot; Least Air Pollution
+Henrietta street; Synge street; 3.4; Continuez sur Grattan Bridge, piste cyclable; bike; Least Noisy
+Henrietta street; Synge street; 2.35; Tournez fort à droite sur Bolton Street, R804; bike; Fastest
+Henrietta street; Synge street; 2.35; Tournez à droite sur Capel Street, piste cyclable; bike; Shortest
+Henrietta street; Synge street; 3.16; Tournez à droite sur Ball's Lane, piste cyclable; bike; Least Air Pollution
+Henrietta street; Synge street; 2.67; Continuez sur Grattan Bridge; car; Least Noisy
+Henrietta street; Synge street; 2.73; Continuez sur Kevin Street Upper, R110; car; Fastest
+Henrietta street; Synge street; 2.48; Continuez sur Grattan Bridge; car; Shortest
+Henrietta street; Synge street; 2.7; Continuez sur Mary's Abbey; car; Least Air Pollution

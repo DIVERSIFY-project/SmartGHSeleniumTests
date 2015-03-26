@@ -1,0 +1,143 @@
+Henrietta Street; Synge street; 3.0; Tournez à gauche sur Jervis Lane Upper; foot; Least Noisy
+Henrietta Street; Synge street; 2.36; Tournez à droite sur Capel Street; foot; Fastest
+Henrietta Street; Synge street; 2.36; Continuez sur Grattan Bridge; foot; Shortest
+Henrietta Street; Synge street; 3.0; Continuez sur Grattan Bridge; foot; Least Air Pollution
+Henrietta Street; Synge street; 3.4; Tournez à droite sur Peter's Row; bike; Least Noisy
+Henrietta Street; Synge street; 2.35; Continuez sur Bride Street; bike; Fastest
+Henrietta Street; Synge street; 2.35; Continuez sur Henrietta Street; bike; Shortest
+Henrietta Street; Synge street; 3.16; Tournez à gauche sur Castle Street; bike; Least Air Pollution
+Henrietta Street; Synge street; 2.67; Tournez à gauche sur Henrietta Place; car; Least Noisy
+Henrietta Street; Synge street; 2.73; Tournez à droite sur New Bride Street; car; Fastest
+Henrietta Street; Synge street; 2.48; Tournez à gauche sur Werburgh Street; car; Shortest
+Henrietta Street; Synge street; 2.7; Continuez sur Mary's Abbey; car; Least Air Pollution
+Henrietta Street; Rathmines; 3.97; Tournez fort à gauche sur Capel Street; foot; Least Noisy
+Henrietta Street; Rathmines; 3.15; Continuez sur Camden Street Lower, R114; foot; Fastest
+Henrietta Street; Rathmines; 3.15; Continuez sur Camden Street Upper, R114; foot; Shortest
+Henrietta Street; Rathmines; 3.96; Tournez fort à gauche sur Capel Street; foot; Least Air Pollution
+Henrietta Street; Rathmines; 4.4; Tournez à droite sur Dominick Street Lower; bike; Least Noisy
+Henrietta Street; Rathmines; 3.34; Continuez sur Grattan Bridge; bike; Fastest
+Henrietta Street; Rathmines; 3.33; Continuez sur Portobello Place; bike; Shortest
+Henrietta Street; Rathmines; 4.15; Tournez à droite, Descendez du vélo; bike; Least Air Pollution
+Henrietta Street; Rathmines; 3.69; Tournez à gauche sur Chancery Street; car; Least Noisy
+Henrietta Street; Rathmines; 3.72; Fini!; car; Fastest
+Henrietta Street; Rathmines; 3.48; Tournez fort à droite sur Bolton Street, R804; car; Shortest
+Henrietta Street; Rathmines; 3.69; Tournez à droite sur Synge Street; car; Least Air Pollution
+Henrietta Street; Santry; 7.78; Tournez légèrement à gauche; foot; Least Noisy
+Henrietta Street; Santry; 5.36; Continuez sur Henrietta Street; foot; Fastest
+Henrietta Street; Santry; 5.36; Continuez sur Dorset Street Lower, R132; foot; Shortest
+Henrietta Street; Santry; 5.97; Tournez à gauche sur Swords Road; foot; Least Air Pollution
+Henrietta Street; Santry; 8.02; Tournez fort à droite sur Parnell Square North; bike; Least Noisy
+Henrietta Street; Santry; 5.76; Tournez à droite, piste cyclable; bike; Fastest
+Henrietta Street; Santry; 5.36; Fini!; bike; Shortest
+Henrietta Street; Santry; 5.63; Continuez sur Dorset Street Lower, R132; bike; Least Air Pollution
+Henrietta Street; Santry; 7.61; Fini!; car; Least Noisy
+Henrietta Street; Santry; 5.36; Continuez sur Dorset Street Upper, R804; car; Fastest
+Henrietta Street; Santry; 5.36; Continuez sur Dorset Street Upper, R804; car; Shortest
+Henrietta Street; Santry; 5.67; Continuez sur Binns Bridge, R132; car; Least Air Pollution
+Synge street; Henrietta Street; 3.0; Continuez sur Grattan Bridge; foot; Least Noisy
+Synge street; Henrietta Street; 2.36; Tournez à droite sur Heytesbury Street; foot; Fastest
+Synge street; Henrietta Street; 2.36; Tournez à droite sur Castle Street; foot; Shortest
+Synge street; Henrietta Street; 3.0; Continuez sur Capel Street; foot; Least Air Pollution
+Synge street; Henrietta Street; 3.24; Tournez légèrement à droite sur George's Street Great South, R114; bike; Least Noisy
+Synge street; Henrietta Street; 2.49; Continuez sur O'Donovan Rossa Bridge, piste cyclable; bike; Fastest
+Synge street; Henrietta Street; 2.49; Tournez légèrement à gauche sur Bride Road, piste cyclable; bike; Shortest
+Synge street; Henrietta Street; 3.24; Tournez à gauche sur Aungier Street, R114; bike; Least Air Pollution
+Synge street; Henrietta Street; 3.24; Tournez à gauche sur Wellington Quay, R148; car; Least Noisy
+Synge street; Henrietta Street; 2.73; Tournez à droite sur North King Street, R804; car; Fastest
+Synge street; Henrietta Street; 2.49; Fini!; car; Shortest
+Synge street; Henrietta Street; 3.24; Continuez sur Chancery Place; car; Least Air Pollution
+Synge street; Rathmines; 1.01; Tournez légèrement à droite sur Portobello Bridge, R114; foot; Least Noisy
+Synge street; Rathmines; 0.96; Tournez à gauche sur Harrington Street, R811; foot; Fastest
+Synge street; Rathmines; 0.96; Tournez à gauche sur Grantham Street; foot; Shortest
+Synge street; Rathmines; 1.01; Continuez sur Synge Street; foot; Least Air Pollution
+Synge street; Rathmines; 1.01; Tournez à droite sur Richmond Row; bike; Least Noisy
+Synge street; Rathmines; 1.01; Continuez sur Portobello Harbour; bike; Fastest
+Synge street; Rathmines; 1.0; Tournez à droite, Descendez du vélo; bike; Shortest
+Synge street; Rathmines; 1.01; Continuez sur Rathmines Road Lower, R114; bike; Least Air Pollution
+Synge street; Rathmines; 1.02; Continuez sur Synge Street; car; Least Noisy
+Synge street; Rathmines; 1.02; Continuez sur La Touche Bridge, R114; car; Fastest
+Synge street; Rathmines; 1.02; Tournez légèrement à droite sur Portobello Bridge, R114; car; Shortest
+Synge street; Rathmines; 1.02; Continuez sur Synge Street; car; Least Air Pollution
+Synge street; Santry; 11.43; Tournez fort à gauche sur East Wall Road, R131; foot; Least Noisy
+Synge street; Santry; 7.62; Continuez sur Dorset Street Upper, R804; foot; Fastest
+Synge street; Santry; 7.62; Continuez sur Dorset Street Upper, R132; foot; Shortest
+Synge street; Santry; 8.87; Tournez fort à gauche sur Whitefriar Street; foot; Least Air Pollution
+Synge street; Santry; 11.31; Tournez fort à droite sur Glencorp Road; bike; Least Noisy
+Synge street; Santry; 8.25; Tournez à droite sur Nicholas Street, R137; bike; Fastest
+Synge street; Santry; 7.79; Tournez légèrement à droite sur Dorset Street Lower, R132; bike; Shortest
+Synge street; Santry; 11.75; Continuez sur Beaumont Road; bike; Least Air Pollution
+Synge street; Santry; 10.85; Tournez à droite sur Henrietta Street; car; Least Noisy
+Synge street; Santry; 7.99; Continuez sur Dorset Street Upper, R132; car; Fastest
+Synge street; Santry; 7.79; Continuez sur Synge Street; car; Shortest
+Synge street; Santry; 8.91; Tournez fort à droite sur Whitefriar Place; car; Least Air Pollution
+Rathmines; Henrietta Street; 3.97; Tournez fort à gauche sur Jervis Lane Upper; foot; Least Noisy
+Rathmines; Henrietta Street; 3.15; Tournez légèrement à gauche sur La Touche Bridge, R114; foot; Fastest
+Rathmines; Henrietta Street; 3.15; Tournez à gauche sur Dame Street, R137; foot; Shortest
+Rathmines; Henrietta Street; 3.96; Continuez sur Grattan Bridge; foot; Least Air Pollution
+Rathmines; Henrietta Street; 4.21; Tournez à droite sur O'Donovan Rossa Bridge; bike; Least Noisy
+Rathmines; Henrietta Street; 3.47; Tournez légèrement à droite sur Christchurch Square, R137; bike; Fastest
+Rathmines; Henrietta Street; 3.36; Tournez légèrement à gauche sur Richmond Street South, R114, piste cyclable; bike; Shortest
+Rathmines; Henrietta Street; 4.21; Tournez à droite sur Peter Street; bike; Least Air Pollution
+Rathmines; Henrietta Street; 4.22; Tournez à gauche sur Dame Street, R137; car; Least Noisy
+Rathmines; Henrietta Street; 3.65; Tournez à droite sur Bride Street; car; Fastest
+Rathmines; Henrietta Street; 3.39; Fini!; car; Shortest
+Rathmines; Henrietta Street; 4.22; Tournez à droite sur Synge Street; car; Least Air Pollution
+Rathmines; Synge street; 1.01; Tournez à droite sur Synge Street; foot; Least Noisy
+Rathmines; Synge street; 0.96; Tournez à gauche sur Grantham Street; foot; Fastest
+Rathmines; Synge street; 0.96; Continuez sur Portobello Bridge, R114; foot; Shortest
+Rathmines; Synge street; 1.01; Continuez sur Richmond Row; foot; Least Air Pollution
+Rathmines; Synge street; 1.01; Continuez sur Portobello Bridge, R114; bike; Least Noisy
+Rathmines; Synge street; 1.01; Continuez sur Richmond Street South, R114; bike; Fastest
+Rathmines; Synge street; 0.97; Fini!; bike; Shortest
+Rathmines; Synge street; 1.0; Continuez sur Richmond Street South, R114; bike; Least Air Pollution
+Rathmines; Synge street; 1.01; Continuez sur Portobello Bridge, R114; car; Least Noisy
+Rathmines; Synge street; 0.97; Tournez légèrement à gauche sur La Touche Bridge, R114; car; Fastest
+Rathmines; Synge street; 0.97; Tournez à gauche sur Grantham Street; car; Shortest
+Rathmines; Synge street; 1.01; Tournez à droite sur Synge Street; car; Least Air Pollution
+Rathmines; Santry; 11.76; Tournez à gauche sur Mount Pleasant Square; foot; Least Noisy
+Rathmines; Santry; 8.38; Tournez à droite sur Hardwicke Street; foot; Fastest
+Rathmines; Santry; 8.38; Continuez sur Swords Road, R132; foot; Shortest
+Rathmines; Santry; 11.92; Tournez à droite sur Croydon Terrace; foot; Least Air Pollution
+Rathmines; Santry; 12.12; Continuez sur Griffith Avenue, R102; bike; Least Noisy
+Rathmines; Santry; 9.35; Tournez fort à droite sur Mercer Street; bike; Fastest
+Rathmines; Santry; 12.1; Tournez fort à droite sur Alfie Byrne Road, R834; bike; Least Air Pollution
+Rathmines; Santry; 13.95; Continuez sur Beach Road, R131; car; Least Noisy
+Rathmines; Santry; 8.91; Continuez sur Swords Road, R132; car; Fastest
+Rathmines; Santry; 8.7; Continuez sur Chancery Place; car; Shortest
+Rathmines; Santry; 14.42; Tournez à gauche sur Ellenfield Road; car; Least Air Pollution
+Santry; Henrietta Street; 7.78; Tournez fort à gauche sur Berkeley Street, R135; foot; Least Noisy
+Santry; Henrietta Street; 5.36; Continuez sur Bolton Street, R804; foot; Fastest
+Santry; Henrietta Street; 5.36; Continuez sur Bolton Street, R804; foot; Shortest
+Santry; Henrietta Street; 5.97; Continuez; foot; Least Air Pollution
+Santry; Henrietta Street; 7.5; Continuez sur Russell Street; bike; Least Noisy
+Santry; Henrietta Street; 6.59; Continuez sur Shantalla Bridge, R132, piste cyclable; bike; Fastest
+Santry; Henrietta Street; 5.47; Tournez à droite sur Swords Road, R132, piste cyclable; bike; Shortest
+Santry; Henrietta Street; 6.66; Continuez sur Shantalla Bridge, R132, piste cyclable; bike; Least Air Pollution
+Santry; Henrietta Street; 7.45; Continuez sur Russell Street; car; Least Noisy
+Santry; Henrietta Street; 5.47; Continuez sur Drumcondra Bridge, R132; car; Fastest
+Santry; Henrietta Street; 5.47; Fini!; car; Shortest
+Santry; Henrietta Street; 6.63; Continuez sur Shantalla Bridge, R132; car; Least Air Pollution
+Santry; Synge street; 11.43; Tournez légèrement à droite sur Sheriff Street Upper, R101; foot; Least Noisy
+Santry; Synge street; 7.62; Tournez fort à droite sur Cork Hill, R137; foot; Fastest
+Santry; Synge street; 7.62; Continuez sur Parliament Street; foot; Shortest
+Santry; Synge street; 8.87; Tournez à gauche sur Stephen Street Upper; foot; Least Air Pollution
+Santry; Synge street; 11.39; Tournez fort à gauche sur Grand Canal Quay, piste cyclable; bike; Least Noisy
+Santry; Synge street; 8.85; Tournez fort à droite sur Cork Hill, R137; bike; Fastest
+Santry; Synge street; 7.72; Tournez à gauche sur Castle Street; bike; Shortest
+Santry; Synge street; 10.01; Tournez à droite sur Church Avenue; bike; Least Air Pollution
+Santry; Synge street; 22.7; Continuez sur Northern Cross Route, M50; car; Least Noisy
+Santry; Synge street; 8.1; Continuez; car; Fastest
+Santry; Synge street; 7.86; Continuez sur Parliament Street; car; Shortest
+Santry; Synge street; 22.68; Tournez à gauche sur The Coombe, R110; car; Least Air Pollution
+Santry; Rathmines; 11.76; Tournez fort à gauche sur Swords Road, R132; foot; Least Noisy
+Santry; Rathmines; 8.38; Tournez légèrement à droite sur Grafton Street; foot; Fastest
+Santry; Rathmines; 8.38; Tournez fort à droite sur Saint Stephen's Green West; foot; Shortest
+Santry; Rathmines; 11.92; Tournez légèrement à droite sur Ellenfield Road; foot; Least Air Pollution
+Santry; Rathmines; 11.48; Tournez à droite sur Pearse Street, R802; bike; Least Noisy
+Santry; Rathmines; 9.83; Continuez sur Grattan Bridge; bike; Fastest
+Santry; Rathmines; 8.71; Tournez fort à droite sur Cork Hill, R137; bike; Shortest
+Santry; Rathmines; 11.53; Tournez fort à gauche sur Grand Canal Quay; bike; Least Air Pollution
+Santry; Rathmines; 22.83; Continuez; car; Least Noisy
+Santry; Rathmines; 9.1; Continuez sur La Touche Bridge, R114; car; Fastest
+Santry; Rathmines; 8.85; Tournez à gauche sur Werburgh Street; car; Shortest
+Santry; Rathmines; 22.87; Tournez à gauche; car; Least Air Pollution
