@@ -19,16 +19,16 @@ public class AllTests {
 	public final static double distanceTolerance = 0.5; // Tolerance to diff in the distance.
 	public final static boolean tolerateDifferentPathOrders = true; // Do we tolerate different orders in the path
 	public final static boolean checkPathChackpoint = false; // Do we check the path checkpoint
-	public final static int numberOfRandomTests = 10;
+	public final static int numberOfRandomTests = 50;
 	
-	public static final String baseUrl = "http://sgh.barais.fr/";
+	public static final String baseUrl = "http://localhost:8989";
 	
 	public static WebDriver driver;
 	private static StringBuffer verificationErrors = new StringBuffer();
 
 	@BeforeClass
 	public static void setUp() {
-		File pathToBinary = new File("C:\\Program Files (x86)\\Mozilla Firefox\\Firefox.exe");
+		File pathToBinary = new File("/root/firefox/firefox");
 		FirefoxBinary ffBinary = new FirefoxBinary(pathToBinary);
 		FirefoxProfile firefoxProfile = new FirefoxProfile();
 		driver = new FirefoxDriver(ffBinary,firefoxProfile);
