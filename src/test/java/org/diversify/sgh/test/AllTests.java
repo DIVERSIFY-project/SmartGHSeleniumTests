@@ -21,15 +21,16 @@ public class AllTests {
 	public final static boolean checkPathChackpoint = false; // Do we check the path checkpoint
 	public final static int numberOfRandomTests = 50;
 	
-	public static final String baseUrl = "http://localhost:8989";
+	public static final String baseUrl = "http://vivek-pc.dsg.cs.tcd.ie:8989";
 	
 	public static WebDriver driver;
 	private static StringBuffer verificationErrors = new StringBuffer();
 
 	@BeforeClass
 	public static void setUp() {
-		File pathToBinary = new File("/root/firefox/firefox");
+		File pathToBinary = new File("/usr/bin/firefox");
 		FirefoxBinary ffBinary = new FirefoxBinary(pathToBinary);
+                ffBinary.setEnvironmentProperty("DISPLAY", ":20");
 		FirefoxProfile firefoxProfile = new FirefoxProfile();
 		driver = new FirefoxDriver(ffBinary,firefoxProfile);
 	}
