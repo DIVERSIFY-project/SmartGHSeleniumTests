@@ -59,8 +59,7 @@
                                                         <goal>xvfb</goal>
                                                 </goals>
                                                 <configuration>
-                                                        <displayPropertiesFile>${displayProps}</displayPropertiesFile>
-                                                        <display>:20</display>
+                                                    <displayPropertiesFile>${project.build.directory}/test-classes/display.properties</displayPropertiesFile>
                                                         <background>true</background>
                                                 </configuration>
                                         </execution>

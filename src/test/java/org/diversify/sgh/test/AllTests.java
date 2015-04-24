@@ -1,6 +1,8 @@
 package org.diversify.sgh.test;
 
 import java.io.File;
+import java.util.Properties;
+import java.io.IOException;
 
 import org.junit.AfterClass;
 import org.junit.BeforeClass;
@@ -27,10 +29,14 @@ public class AllTests {
 	private static StringBuffer verificationErrors = new StringBuffer();
 
 	@BeforeClass
-	public static void setUp() {
+	public static void setUp() throws java.io.IOException {
+                Properties props = new java.util.Properties();
+                props.load(AllTests.class.getResourceAsStream("/display.properties"));
+                String xvfbDisplayPort = props.getProperty("DISPLAY");
+                System.out.println("Connecting firefox to display port: " + xvfbDisplayPort);
 		File pathToBinary = new File("/usr/bin/firefox");
 		FirefoxBinary ffBinary = new FirefoxBinary(pathToBinary);
-                ffBinary.setEnvironmentProperty("DISPLAY", ":20");
+                ffBinary.setEnvironmentProperty("DISPLAY", xvfbDisplayPort);
 		FirefoxProfile firefoxProfile = new FirefoxProfile();
 		driver = new FirefoxDriver(ffBinary,firefoxProfile);
 	}
